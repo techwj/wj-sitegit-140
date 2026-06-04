@@ -1,0 +1,852 @@
+{
+  "articles": [
+    {
+      "id": 1,
+      "slug": "the-ultimate-guide-to-beginner-home-color-scheme",
+      "title": "The Ultimate Guide to Beginner Home Color Scheme",
+      "category": "beginner-home-color-scheme",
+      "created_at": "2026-06-04T11:35:36.051922",
+      "image": {
+        "id": "7567c9b57c4c1a652bab56ada707315f8d20612c0736c3c1bb6c5080f8b2614b",
+        "url": "https://picsum.photos/1078/528?random=382",
+        "alt": "Featured image for: The Ultimate Guide to Beginner Home Color Scheme",
+        "width": 1078,
+        "height": 528
+      }
+    },
+    {
+      "id": 2,
+      "slug": "beginner-home-color-scheme-everything-you-need-to-know",
+      "title": "Beginner Home Color Scheme: Everything You Need to Know",
+      "category": "beginner-home-color-scheme",
+      "created_at": "2026-06-04T11:35:36.052070",
+      "image": {
+        "id": "199a891ffc1a337a163ee28058ca85425c21c5df805c4c2a4c5d61c6c22a1c8e",
+        "url": "https://picsum.photos/952/437?random=458",
+        "alt": "Featured image for: Beginner Home Color Scheme: Everything You Need to Know",
+        "width": 952,
+        "height": 437
+      }
+    },
+    {
+      "id": 3,
+      "slug": "understanding-beginner-home-color-scheme",
+      "title": "Understanding Beginner Home Color Scheme",
+      "category": "beginner-home-color-scheme",
+      "created_at": "2026-06-04T11:35:36.052161",
+      "image": {
+        "id": "983063d524c7398418052d50aa463cca44538dd82093a1ced1ad880d19b5a805",
+        "url": "https://picsum.photos/842/418?random=425",
+        "alt": "Featured image for: Understanding Beginner Home Color Scheme",
+        "width": 842,
+        "height": 418
+      }
+    },
+    {
+      "id": 4,
+      "slug": "beginner-home-color-scheme-tips-and-best-practices",
+      "title": "Beginner Home Color Scheme Tips and Best Practices",
+      "category": "beginner-home-color-scheme",
+      "created_at": "2026-06-04T11:35:36.052244",
+      "image": {
+        "id": "a89f6eed3ef1be31c0a5e10aafc3d081b80ded998272d4543d21f9e00a89f7fe",
+        "url": "https://picsum.photos/934/448?random=2",
+        "alt": "Featured image for: Beginner Home Color Scheme Tips and Best Practices",
+        "width": 934,
+        "height": 448
+      }
+    },
+    {
+      "id": 5,
+      "slug": "the-history-of-beginner-home-color-scheme",
+      "title": "The History of Beginner Home Color Scheme",
+      "category": "beginner-home-color-scheme",
+      "created_at": "2026-06-04T11:35:36.052327",
+      "image": {
+        "id": "274a94339b8df971b1e0fd0e2f356ce98172378f2483c5f95a0babd5bb22357d",
+        "url": "https://picsum.photos/1172/571?random=672",
+        "alt": "Featured image for: The History of Beginner Home Color Scheme",
+        "width": 1172,
+        "height": 571
+      }
+    },
+    {
+      "id": 6,
+      "slug": "beginner-home-color-scheme-in-2026-current-trends",
+      "title": "Beginner Home Color Scheme in 2026: Current Trends",
+      "category": "beginner-home-color-scheme",
+      "created_at": "2026-06-04T11:35:36.052464",
+      "image": {
+        "id": "199a891ffc1a337a163ee28058ca85425c21c5df805c4c2a4c5d61c6c22a1c8e",
+        "url": "https://picsum.photos/952/437?random=458",
+        "alt": "Featured image for: Beginner Home Color Scheme in 2026: Current Trends",
+        "width": 952,
+        "height": 437
+      }
+    },
+    {
+      "id": 7,
+      "slug": "future-of-beginner-home-color-scheme",
+      "title": "Future of Beginner Home Color Scheme",
+      "category": "beginner-home-color-scheme",
+      "created_at": "2026-06-04T11:35:36.052595",
+      "image": {
+        "id": "199a891ffc1a337a163ee28058ca85425c21c5df805c4c2a4c5d61c6c22a1c8e",
+        "url": "https://picsum.photos/952/437?random=458",
+        "alt": "Featured image for: Future of Beginner Home Color Scheme",
+        "width": 952,
+        "height": 437
+      }
+    },
+    {
+      "id": 8,
+      "slug": "common-mistakes-in-beginner-home-color-scheme",
+      "title": "Common Mistakes in Beginner Home Color Scheme",
+      "category": "beginner-home-color-scheme",
+      "created_at": "2026-06-04T11:35:36.052691",
+      "image": {
+        "id": "a89f6eed3ef1be31c0a5e10aafc3d081b80ded998272d4543d21f9e00a89f7fe",
+        "url": "https://picsum.photos/934/448?random=2",
+        "alt": "Featured image for: Common Mistakes in Beginner Home Color Scheme",
+        "width": 934,
+        "height": 448
+      }
+    },
+    {
+      "id": 9,
+      "slug": "beginner-home-color-scheme-for-beginners",
+      "title": "Beginner Home Color Scheme for Beginners",
+      "category": "beginner-home-color-scheme",
+      "created_at": "2026-06-04T11:35:36.052785",
+      "image": {
+        "id": "274a94339b8df971b1e0fd0e2f356ce98172378f2483c5f95a0babd5bb22357d",
+        "url": "https://picsum.photos/1172/571?random=672",
+        "alt": "Featured image for: Beginner Home Color Scheme for Beginners",
+        "width": 1172,
+        "height": 571
+      }
+    },
+    {
+      "id": 10,
+      "slug": "advanced-beginner-home-color-scheme-techniques",
+      "title": "Advanced Beginner Home Color Scheme Techniques",
+      "category": "beginner-home-color-scheme",
+      "created_at": "2026-06-04T11:35:36.052869",
+      "image": {
+        "id": "274a94339b8df971b1e0fd0e2f356ce98172378f2483c5f95a0babd5bb22357d",
+        "url": "https://picsum.photos/1172/571?random=672",
+        "alt": "Featured image for: Advanced Beginner Home Color Scheme Techniques",
+        "width": 1172,
+        "height": 571
+      }
+    },
+    {
+      "id": 19,
+      "slug": "the-ultimate-guide-to-advanced-home-color-scheme",
+      "title": "The Ultimate Guide to Advanced Home Color Scheme",
+      "category": "advanced-home-color-scheme",
+      "created_at": "2026-06-04T11:35:36.053629",
+      "image": {
+        "id": "199a891ffc1a337a163ee28058ca85425c21c5df805c4c2a4c5d61c6c22a1c8e",
+        "url": "https://picsum.photos/952/437?random=458",
+        "alt": "Featured image for: The Ultimate Guide to Advanced Home Color Scheme",
+        "width": 952,
+        "height": 437
+      }
+    },
+    {
+      "id": 20,
+      "slug": "advanced-home-color-scheme-everything-you-need-to-know",
+      "title": "Advanced Home Color Scheme: Everything You Need to Know",
+      "category": "advanced-home-color-scheme",
+      "created_at": "2026-06-04T11:35:36.053708",
+      "image": {
+        "id": "7567c9b57c4c1a652bab56ada707315f8d20612c0736c3c1bb6c5080f8b2614b",
+        "url": "https://picsum.photos/1078/528?random=382",
+        "alt": "Featured image for: Advanced Home Color Scheme: Everything You Need to Know",
+        "width": 1078,
+        "height": 528
+      }
+    },
+    {
+      "id": 21,
+      "slug": "understanding-advanced-home-color-scheme",
+      "title": "Understanding Advanced Home Color Scheme",
+      "category": "advanced-home-color-scheme",
+      "created_at": "2026-06-04T11:35:36.053793",
+      "image": {
+        "id": "983063d524c7398418052d50aa463cca44538dd82093a1ced1ad880d19b5a805",
+        "url": "https://picsum.photos/842/418?random=425",
+        "alt": "Featured image for: Understanding Advanced Home Color Scheme",
+        "width": 842,
+        "height": 418
+      }
+    },
+    {
+      "id": 22,
+      "slug": "advanced-home-color-scheme-tips-and-best-practices",
+      "title": "Advanced Home Color Scheme Tips and Best Practices",
+      "category": "advanced-home-color-scheme",
+      "created_at": "2026-06-04T11:35:36.053875",
+      "image": {
+        "id": "274a94339b8df971b1e0fd0e2f356ce98172378f2483c5f95a0babd5bb22357d",
+        "url": "https://picsum.photos/1172/571?random=672",
+        "alt": "Featured image for: Advanced Home Color Scheme Tips and Best Practices",
+        "width": 1172,
+        "height": 571
+      }
+    },
+    {
+      "id": 23,
+      "slug": "the-history-of-advanced-home-color-scheme",
+      "title": "The History of Advanced Home Color Scheme",
+      "category": "advanced-home-color-scheme",
+      "created_at": "2026-06-04T11:35:36.053961",
+      "image": {
+        "id": "983063d524c7398418052d50aa463cca44538dd82093a1ced1ad880d19b5a805",
+        "url": "https://picsum.photos/842/418?random=425",
+        "alt": "Featured image for: The History of Advanced Home Color Scheme",
+        "width": 842,
+        "height": 418
+      }
+    },
+    {
+      "id": 24,
+      "slug": "advanced-home-color-scheme-in-2026-current-trends",
+      "title": "Advanced Home Color Scheme in 2026: Current Trends",
+      "category": "advanced-home-color-scheme",
+      "created_at": "2026-06-04T11:35:36.054041",
+      "image": {
+        "id": "274a94339b8df971b1e0fd0e2f356ce98172378f2483c5f95a0babd5bb22357d",
+        "url": "https://picsum.photos/1172/571?random=672",
+        "alt": "Featured image for: Advanced Home Color Scheme in 2026: Current Trends",
+        "width": 1172,
+        "height": 571
+      }
+    },
+    {
+      "id": 25,
+      "slug": "future-of-advanced-home-color-scheme",
+      "title": "Future of Advanced Home Color Scheme",
+      "category": "advanced-home-color-scheme",
+      "created_at": "2026-06-04T11:35:36.054125",
+      "image": {
+        "id": "983063d524c7398418052d50aa463cca44538dd82093a1ced1ad880d19b5a805",
+        "url": "https://picsum.photos/842/418?random=425",
+        "alt": "Featured image for: Future of Advanced Home Color Scheme",
+        "width": 842,
+        "height": 418
+      }
+    },
+    {
+      "id": 26,
+      "slug": "common-mistakes-in-advanced-home-color-scheme",
+      "title": "Common Mistakes in Advanced Home Color Scheme",
+      "category": "advanced-home-color-scheme",
+      "created_at": "2026-06-04T11:35:36.054204",
+      "image": {
+        "id": "199a891ffc1a337a163ee28058ca85425c21c5df805c4c2a4c5d61c6c22a1c8e",
+        "url": "https://picsum.photos/952/437?random=458",
+        "alt": "Featured image for: Common Mistakes in Advanced Home Color Scheme",
+        "width": 952,
+        "height": 437
+      }
+    },
+    {
+      "id": 27,
+      "slug": "advanced-home-color-scheme-for-beginners",
+      "title": "Advanced Home Color Scheme for Beginners",
+      "category": "advanced-home-color-scheme",
+      "created_at": "2026-06-04T11:35:36.054287",
+      "image": {
+        "id": "983063d524c7398418052d50aa463cca44538dd82093a1ced1ad880d19b5a805",
+        "url": "https://picsum.photos/842/418?random=425",
+        "alt": "Featured image for: Advanced Home Color Scheme for Beginners",
+        "width": 842,
+        "height": 418
+      }
+    },
+    {
+      "id": 28,
+      "slug": "advanced-advanced-home-color-scheme-techniques",
+      "title": "Advanced Advanced Home Color Scheme Techniques",
+      "category": "advanced-home-color-scheme",
+      "created_at": "2026-06-04T11:35:36.054367",
+      "image": {
+        "id": "199a891ffc1a337a163ee28058ca85425c21c5df805c4c2a4c5d61c6c22a1c8e",
+        "url": "https://picsum.photos/952/437?random=458",
+        "alt": "Featured image for: Advanced Advanced Home Color Scheme Techniques",
+        "width": 952,
+        "height": 437
+      }
+    },
+    {
+      "id": 37,
+      "slug": "the-ultimate-guide-to-home-color-scheme-tips",
+      "title": "The Ultimate Guide to Home Color Scheme Tips",
+      "category": "tips-home-color-scheme",
+      "created_at": "2026-06-04T11:35:36.055076",
+      "image": {
+        "id": "7567c9b57c4c1a652bab56ada707315f8d20612c0736c3c1bb6c5080f8b2614b",
+        "url": "https://picsum.photos/1078/528?random=382",
+        "alt": "Featured image for: The Ultimate Guide to Home Color Scheme Tips",
+        "width": 1078,
+        "height": 528
+      }
+    },
+    {
+      "id": 38,
+      "slug": "home-color-scheme-tips-everything-you-need-to-know",
+      "title": "Home Color Scheme Tips: Everything You Need to Know",
+      "category": "tips-home-color-scheme",
+      "created_at": "2026-06-04T11:35:36.055156",
+      "image": {
+        "id": "a89f6eed3ef1be31c0a5e10aafc3d081b80ded998272d4543d21f9e00a89f7fe",
+        "url": "https://picsum.photos/934/448?random=2",
+        "alt": "Featured image for: Home Color Scheme Tips: Everything You Need to Know",
+        "width": 934,
+        "height": 448
+      }
+    },
+    {
+      "id": 39,
+      "slug": "understanding-home-color-scheme-tips",
+      "title": "Understanding Home Color Scheme Tips",
+      "category": "tips-home-color-scheme",
+      "created_at": "2026-06-04T11:35:36.055232",
+      "image": {
+        "id": "7567c9b57c4c1a652bab56ada707315f8d20612c0736c3c1bb6c5080f8b2614b",
+        "url": "https://picsum.photos/1078/528?random=382",
+        "alt": "Featured image for: Understanding Home Color Scheme Tips",
+        "width": 1078,
+        "height": 528
+      }
+    },
+    {
+      "id": 40,
+      "slug": "home-color-scheme-tips-tips-and-best-practices",
+      "title": "Home Color Scheme Tips Tips and Best Practices",
+      "category": "tips-home-color-scheme",
+      "created_at": "2026-06-04T11:35:36.055298",
+      "image": {
+        "id": "983063d524c7398418052d50aa463cca44538dd82093a1ced1ad880d19b5a805",
+        "url": "https://picsum.photos/842/418?random=425",
+        "alt": "Featured image for: Home Color Scheme Tips Tips and Best Practices",
+        "width": 842,
+        "height": 418
+      }
+    },
+    {
+      "id": 41,
+      "slug": "the-history-of-home-color-scheme-tips",
+      "title": "The History of Home Color Scheme Tips",
+      "category": "tips-home-color-scheme",
+      "created_at": "2026-06-04T11:35:36.055371",
+      "image": {
+        "id": "a89f6eed3ef1be31c0a5e10aafc3d081b80ded998272d4543d21f9e00a89f7fe",
+        "url": "https://picsum.photos/934/448?random=2",
+        "alt": "Featured image for: The History of Home Color Scheme Tips",
+        "width": 934,
+        "height": 448
+      }
+    },
+    {
+      "id": 42,
+      "slug": "home-color-scheme-tips-in-2026-current-trends",
+      "title": "Home Color Scheme Tips in 2026: Current Trends",
+      "category": "tips-home-color-scheme",
+      "created_at": "2026-06-04T11:35:36.055439",
+      "image": {
+        "id": "274a94339b8df971b1e0fd0e2f356ce98172378f2483c5f95a0babd5bb22357d",
+        "url": "https://picsum.photos/1172/571?random=672",
+        "alt": "Featured image for: Home Color Scheme Tips in 2026: Current Trends",
+        "width": 1172,
+        "height": 571
+      }
+    },
+    {
+      "id": 43,
+      "slug": "future-of-home-color-scheme-tips",
+      "title": "Future of Home Color Scheme Tips",
+      "category": "tips-home-color-scheme",
+      "created_at": "2026-06-04T11:35:36.055509",
+      "image": {
+        "id": "199a891ffc1a337a163ee28058ca85425c21c5df805c4c2a4c5d61c6c22a1c8e",
+        "url": "https://picsum.photos/952/437?random=458",
+        "alt": "Featured image for: Future of Home Color Scheme Tips",
+        "width": 952,
+        "height": 437
+      }
+    },
+    {
+      "id": 44,
+      "slug": "common-mistakes-in-home-color-scheme-tips",
+      "title": "Common Mistakes in Home Color Scheme Tips",
+      "category": "tips-home-color-scheme",
+      "created_at": "2026-06-04T11:35:36.055593",
+      "image": {
+        "id": "7567c9b57c4c1a652bab56ada707315f8d20612c0736c3c1bb6c5080f8b2614b",
+        "url": "https://picsum.photos/1078/528?random=382",
+        "alt": "Featured image for: Common Mistakes in Home Color Scheme Tips",
+        "width": 1078,
+        "height": 528
+      }
+    },
+    {
+      "id": 45,
+      "slug": "home-color-scheme-tips-for-beginners",
+      "title": "Home Color Scheme Tips for Beginners",
+      "category": "tips-home-color-scheme",
+      "created_at": "2026-06-04T11:35:36.055665",
+      "image": {
+        "id": "7567c9b57c4c1a652bab56ada707315f8d20612c0736c3c1bb6c5080f8b2614b",
+        "url": "https://picsum.photos/1078/528?random=382",
+        "alt": "Featured image for: Home Color Scheme Tips for Beginners",
+        "width": 1078,
+        "height": 528
+      }
+    },
+    {
+      "id": 46,
+      "slug": "advanced-home-color-scheme-tips-techniques",
+      "title": "Advanced Home Color Scheme Tips Techniques",
+      "category": "tips-home-color-scheme",
+      "created_at": "2026-06-04T11:35:36.055732",
+      "image": {
+        "id": "274a94339b8df971b1e0fd0e2f356ce98172378f2483c5f95a0babd5bb22357d",
+        "url": "https://picsum.photos/1172/571?random=672",
+        "alt": "Featured image for: Advanced Home Color Scheme Tips Techniques",
+        "width": 1172,
+        "height": 571
+      }
+    },
+    {
+      "id": 55,
+      "slug": "the-ultimate-guide-to-home-color-scheme-history",
+      "title": "The Ultimate Guide to Home Color Scheme History",
+      "category": "history-home-color-scheme",
+      "created_at": "2026-06-04T11:35:36.056360",
+      "image": {
+        "id": "199a891ffc1a337a163ee28058ca85425c21c5df805c4c2a4c5d61c6c22a1c8e",
+        "url": "https://picsum.photos/952/437?random=458",
+        "alt": "Featured image for: The Ultimate Guide to Home Color Scheme History",
+        "width": 952,
+        "height": 437
+      }
+    },
+    {
+      "id": 56,
+      "slug": "home-color-scheme-history-everything-you-need-to-know",
+      "title": "Home Color Scheme History: Everything You Need to Know",
+      "category": "history-home-color-scheme",
+      "created_at": "2026-06-04T11:35:36.056438",
+      "image": {
+        "id": "274a94339b8df971b1e0fd0e2f356ce98172378f2483c5f95a0babd5bb22357d",
+        "url": "https://picsum.photos/1172/571?random=672",
+        "alt": "Featured image for: Home Color Scheme History: Everything You Need to Know",
+        "width": 1172,
+        "height": 571
+      }
+    },
+    {
+      "id": 57,
+      "slug": "understanding-home-color-scheme-history",
+      "title": "Understanding Home Color Scheme History",
+      "category": "history-home-color-scheme",
+      "created_at": "2026-06-04T11:35:36.056519",
+      "image": {
+        "id": "7567c9b57c4c1a652bab56ada707315f8d20612c0736c3c1bb6c5080f8b2614b",
+        "url": "https://picsum.photos/1078/528?random=382",
+        "alt": "Featured image for: Understanding Home Color Scheme History",
+        "width": 1078,
+        "height": 528
+      }
+    },
+    {
+      "id": 58,
+      "slug": "home-color-scheme-history-tips-and-best-practices",
+      "title": "Home Color Scheme History Tips and Best Practices",
+      "category": "history-home-color-scheme",
+      "created_at": "2026-06-04T11:35:36.056592",
+      "image": {
+        "id": "7567c9b57c4c1a652bab56ada707315f8d20612c0736c3c1bb6c5080f8b2614b",
+        "url": "https://picsum.photos/1078/528?random=382",
+        "alt": "Featured image for: Home Color Scheme History Tips and Best Practices",
+        "width": 1078,
+        "height": 528
+      }
+    },
+    {
+      "id": 59,
+      "slug": "the-history-of-home-color-scheme-history",
+      "title": "The History of Home Color Scheme History",
+      "category": "history-home-color-scheme",
+      "created_at": "2026-06-04T11:35:36.056663",
+      "image": {
+        "id": "a89f6eed3ef1be31c0a5e10aafc3d081b80ded998272d4543d21f9e00a89f7fe",
+        "url": "https://picsum.photos/934/448?random=2",
+        "alt": "Featured image for: The History of Home Color Scheme History",
+        "width": 934,
+        "height": 448
+      }
+    },
+    {
+      "id": 60,
+      "slug": "home-color-scheme-history-in-2026-current-trends",
+      "title": "Home Color Scheme History in 2026: Current Trends",
+      "category": "history-home-color-scheme",
+      "created_at": "2026-06-04T11:35:36.056731",
+      "image": {
+        "id": "7567c9b57c4c1a652bab56ada707315f8d20612c0736c3c1bb6c5080f8b2614b",
+        "url": "https://picsum.photos/1078/528?random=382",
+        "alt": "Featured image for: Home Color Scheme History in 2026: Current Trends",
+        "width": 1078,
+        "height": 528
+      }
+    },
+    {
+      "id": 61,
+      "slug": "future-of-home-color-scheme-history",
+      "title": "Future of Home Color Scheme History",
+      "category": "history-home-color-scheme",
+      "created_at": "2026-06-04T11:35:36.056803",
+      "image": {
+        "id": "983063d524c7398418052d50aa463cca44538dd82093a1ced1ad880d19b5a805",
+        "url": "https://picsum.photos/842/418?random=425",
+        "alt": "Featured image for: Future of Home Color Scheme History",
+        "width": 842,
+        "height": 418
+      }
+    },
+    {
+      "id": 62,
+      "slug": "common-mistakes-in-home-color-scheme-history",
+      "title": "Common Mistakes in Home Color Scheme History",
+      "category": "history-home-color-scheme",
+      "created_at": "2026-06-04T11:35:36.056873",
+      "image": {
+        "id": "274a94339b8df971b1e0fd0e2f356ce98172378f2483c5f95a0babd5bb22357d",
+        "url": "https://picsum.photos/1172/571?random=672",
+        "alt": "Featured image for: Common Mistakes in Home Color Scheme History",
+        "width": 1172,
+        "height": 571
+      }
+    },
+    {
+      "id": 63,
+      "slug": "home-color-scheme-history-for-beginners",
+      "title": "Home Color Scheme History for Beginners",
+      "category": "history-home-color-scheme",
+      "created_at": "2026-06-04T11:35:36.056949",
+      "image": {
+        "id": "274a94339b8df971b1e0fd0e2f356ce98172378f2483c5f95a0babd5bb22357d",
+        "url": "https://picsum.photos/1172/571?random=672",
+        "alt": "Featured image for: Home Color Scheme History for Beginners",
+        "width": 1172,
+        "height": 571
+      }
+    },
+    {
+      "id": 64,
+      "slug": "advanced-home-color-scheme-history-techniques",
+      "title": "Advanced Home Color Scheme History Techniques",
+      "category": "history-home-color-scheme",
+      "created_at": "2026-06-04T11:35:36.057230",
+      "image": {
+        "id": "274a94339b8df971b1e0fd0e2f356ce98172378f2483c5f95a0babd5bb22357d",
+        "url": "https://picsum.photos/1172/571?random=672",
+        "alt": "Featured image for: Advanced Home Color Scheme History Techniques",
+        "width": 1172,
+        "height": 571
+      }
+    },
+    {
+      "id": 73,
+      "slug": "the-ultimate-guide-to-trending-home-color-scheme",
+      "title": "The Ultimate Guide to Trending Home Color Scheme",
+      "category": "trending-home-color-scheme",
+      "created_at": "2026-06-04T11:35:36.057904",
+      "image": {
+        "id": "7567c9b57c4c1a652bab56ada707315f8d20612c0736c3c1bb6c5080f8b2614b",
+        "url": "https://picsum.photos/1078/528?random=382",
+        "alt": "Featured image for: The Ultimate Guide to Trending Home Color Scheme",
+        "width": 1078,
+        "height": 528
+      }
+    },
+    {
+      "id": 74,
+      "slug": "trending-home-color-scheme-everything-you-need-to-know",
+      "title": "Trending Home Color Scheme: Everything You Need to Know",
+      "category": "trending-home-color-scheme",
+      "created_at": "2026-06-04T11:35:36.057973",
+      "image": {
+        "id": "274a94339b8df971b1e0fd0e2f356ce98172378f2483c5f95a0babd5bb22357d",
+        "url": "https://picsum.photos/1172/571?random=672",
+        "alt": "Featured image for: Trending Home Color Scheme: Everything You Need to Know",
+        "width": 1172,
+        "height": 571
+      }
+    },
+    {
+      "id": 75,
+      "slug": "understanding-trending-home-color-scheme",
+      "title": "Understanding Trending Home Color Scheme",
+      "category": "trending-home-color-scheme",
+      "created_at": "2026-06-04T11:35:36.058042",
+      "image": {
+        "id": "274a94339b8df971b1e0fd0e2f356ce98172378f2483c5f95a0babd5bb22357d",
+        "url": "https://picsum.photos/1172/571?random=672",
+        "alt": "Featured image for: Understanding Trending Home Color Scheme",
+        "width": 1172,
+        "height": 571
+      }
+    },
+    {
+      "id": 76,
+      "slug": "trending-home-color-scheme-tips-and-best-practices",
+      "title": "Trending Home Color Scheme Tips and Best Practices",
+      "category": "trending-home-color-scheme",
+      "created_at": "2026-06-04T11:35:36.058113",
+      "image": {
+        "id": "983063d524c7398418052d50aa463cca44538dd82093a1ced1ad880d19b5a805",
+        "url": "https://picsum.photos/842/418?random=425",
+        "alt": "Featured image for: Trending Home Color Scheme Tips and Best Practices",
+        "width": 842,
+        "height": 418
+      }
+    },
+    {
+      "id": 77,
+      "slug": "the-history-of-trending-home-color-scheme",
+      "title": "The History of Trending Home Color Scheme",
+      "category": "trending-home-color-scheme",
+      "created_at": "2026-06-04T11:35:36.058189",
+      "image": {
+        "id": "274a94339b8df971b1e0fd0e2f356ce98172378f2483c5f95a0babd5bb22357d",
+        "url": "https://picsum.photos/1172/571?random=672",
+        "alt": "Featured image for: The History of Trending Home Color Scheme",
+        "width": 1172,
+        "height": 571
+      }
+    },
+    {
+      "id": 78,
+      "slug": "trending-home-color-scheme-in-2026-current-trends",
+      "title": "Trending Home Color Scheme in 2026: Current Trends",
+      "category": "trending-home-color-scheme",
+      "created_at": "2026-06-04T11:35:36.058258",
+      "image": {
+        "id": "274a94339b8df971b1e0fd0e2f356ce98172378f2483c5f95a0babd5bb22357d",
+        "url": "https://picsum.photos/1172/571?random=672",
+        "alt": "Featured image for: Trending Home Color Scheme in 2026: Current Trends",
+        "width": 1172,
+        "height": 571
+      }
+    },
+    {
+      "id": 79,
+      "slug": "future-of-trending-home-color-scheme",
+      "title": "Future of Trending Home Color Scheme",
+      "category": "trending-home-color-scheme",
+      "created_at": "2026-06-04T11:35:36.058375",
+      "image": {
+        "id": "983063d524c7398418052d50aa463cca44538dd82093a1ced1ad880d19b5a805",
+        "url": "https://picsum.photos/842/418?random=425",
+        "alt": "Featured image for: Future of Trending Home Color Scheme",
+        "width": 842,
+        "height": 418
+      }
+    },
+    {
+      "id": 80,
+      "slug": "common-mistakes-in-trending-home-color-scheme",
+      "title": "Common Mistakes in Trending Home Color Scheme",
+      "category": "trending-home-color-scheme",
+      "created_at": "2026-06-04T11:35:36.058588",
+      "image": {
+        "id": "274a94339b8df971b1e0fd0e2f356ce98172378f2483c5f95a0babd5bb22357d",
+        "url": "https://picsum.photos/1172/571?random=672",
+        "alt": "Featured image for: Common Mistakes in Trending Home Color Scheme",
+        "width": 1172,
+        "height": 571
+      }
+    },
+    {
+      "id": 81,
+      "slug": "trending-home-color-scheme-for-beginners",
+      "title": "Trending Home Color Scheme for Beginners",
+      "category": "trending-home-color-scheme",
+      "created_at": "2026-06-04T11:35:36.058756",
+      "image": {
+        "id": "199a891ffc1a337a163ee28058ca85425c21c5df805c4c2a4c5d61c6c22a1c8e",
+        "url": "https://picsum.photos/952/437?random=458",
+        "alt": "Featured image for: Trending Home Color Scheme for Beginners",
+        "width": 952,
+        "height": 437
+      }
+    },
+    {
+      "id": 82,
+      "slug": "advanced-trending-home-color-scheme-techniques",
+      "title": "Advanced Trending Home Color Scheme Techniques",
+      "category": "trending-home-color-scheme",
+      "created_at": "2026-06-04T11:35:36.058834",
+      "image": {
+        "id": "7567c9b57c4c1a652bab56ada707315f8d20612c0736c3c1bb6c5080f8b2614b",
+        "url": "https://picsum.photos/1078/528?random=382",
+        "alt": "Featured image for: Advanced Trending Home Color Scheme Techniques",
+        "width": 1078,
+        "height": 528
+      }
+    },
+    {
+      "id": 91,
+      "slug": "the-ultimate-guide-to-home-color-scheme-tutorials",
+      "title": "The Ultimate Guide to Home Color Scheme Tutorials",
+      "category": "tutorials-home-color-scheme",
+      "created_at": "2026-06-04T11:35:36.059638",
+      "image": {
+        "id": "a89f6eed3ef1be31c0a5e10aafc3d081b80ded998272d4543d21f9e00a89f7fe",
+        "url": "https://picsum.photos/934/448?random=2",
+        "alt": "Featured image for: The Ultimate Guide to Home Color Scheme Tutorials",
+        "width": 934,
+        "height": 448
+      }
+    },
+    {
+      "id": 92,
+      "slug": "home-color-scheme-tutorials-everything-you-need-to-know",
+      "title": "Home Color Scheme Tutorials: Everything You Need to Know",
+      "category": "tutorials-home-color-scheme",
+      "created_at": "2026-06-04T11:35:36.059705",
+      "image": {
+        "id": "274a94339b8df971b1e0fd0e2f356ce98172378f2483c5f95a0babd5bb22357d",
+        "url": "https://picsum.photos/1172/571?random=672",
+        "alt": "Featured image for: Home Color Scheme Tutorials: Everything You Need to Know",
+        "width": 1172,
+        "height": 571
+      }
+    },
+    {
+      "id": 93,
+      "slug": "understanding-home-color-scheme-tutorials",
+      "title": "Understanding Home Color Scheme Tutorials",
+      "category": "tutorials-home-color-scheme",
+      "created_at": "2026-06-04T11:35:36.059779",
+      "image": {
+        "id": "199a891ffc1a337a163ee28058ca85425c21c5df805c4c2a4c5d61c6c22a1c8e",
+        "url": "https://picsum.photos/952/437?random=458",
+        "alt": "Featured image for: Understanding Home Color Scheme Tutorials",
+        "width": 952,
+        "height": 437
+      }
+    },
+    {
+      "id": 94,
+      "slug": "home-color-scheme-tutorials-tips-and-best-practices",
+      "title": "Home Color Scheme Tutorials Tips and Best Practices",
+      "category": "tutorials-home-color-scheme",
+      "created_at": "2026-06-04T11:35:36.059845",
+      "image": {
+        "id": "a89f6eed3ef1be31c0a5e10aafc3d081b80ded998272d4543d21f9e00a89f7fe",
+        "url": "https://picsum.photos/934/448?random=2",
+        "alt": "Featured image for: Home Color Scheme Tutorials Tips and Best Practices",
+        "width": 934,
+        "height": 448
+      }
+    },
+    {
+      "id": 95,
+      "slug": "the-history-of-home-color-scheme-tutorials",
+      "title": "The History of Home Color Scheme Tutorials",
+      "category": "tutorials-home-color-scheme",
+      "created_at": "2026-06-04T11:35:36.059913",
+      "image": {
+        "id": "7567c9b57c4c1a652bab56ada707315f8d20612c0736c3c1bb6c5080f8b2614b",
+        "url": "https://picsum.photos/1078/528?random=382",
+        "alt": "Featured image for: The History of Home Color Scheme Tutorials",
+        "width": 1078,
+        "height": 528
+      }
+    },
+    {
+      "id": 96,
+      "slug": "home-color-scheme-tutorials-in-2026-current-trends",
+      "title": "Home Color Scheme Tutorials in 2026: Current Trends",
+      "category": "tutorials-home-color-scheme",
+      "created_at": "2026-06-04T11:35:36.059978",
+      "image": {
+        "id": "7567c9b57c4c1a652bab56ada707315f8d20612c0736c3c1bb6c5080f8b2614b",
+        "url": "https://picsum.photos/1078/528?random=382",
+        "alt": "Featured image for: Home Color Scheme Tutorials in 2026: Current Trends",
+        "width": 1078,
+        "height": 528
+      }
+    },
+    {
+      "id": 97,
+      "slug": "future-of-home-color-scheme-tutorials",
+      "title": "Future of Home Color Scheme Tutorials",
+      "category": "tutorials-home-color-scheme",
+      "created_at": "2026-06-04T11:35:36.060046",
+      "image": {
+        "id": "983063d524c7398418052d50aa463cca44538dd82093a1ced1ad880d19b5a805",
+        "url": "https://picsum.photos/842/418?random=425",
+        "alt": "Featured image for: Future of Home Color Scheme Tutorials",
+        "width": 842,
+        "height": 418
+      }
+    },
+    {
+      "id": 98,
+      "slug": "common-mistakes-in-home-color-scheme-tutorials",
+      "title": "Common Mistakes in Home Color Scheme Tutorials",
+      "category": "tutorials-home-color-scheme",
+      "created_at": "2026-06-04T11:35:36.060110",
+      "image": {
+        "id": "983063d524c7398418052d50aa463cca44538dd82093a1ced1ad880d19b5a805",
+        "url": "https://picsum.photos/842/418?random=425",
+        "alt": "Featured image for: Common Mistakes in Home Color Scheme Tutorials",
+        "width": 842,
+        "height": 418
+      }
+    },
+    {
+      "id": 99,
+      "slug": "home-color-scheme-tutorials-for-beginners",
+      "title": "Home Color Scheme Tutorials for Beginners",
+      "category": "tutorials-home-color-scheme",
+      "created_at": "2026-06-04T11:35:36.060172",
+      "image": {
+        "id": "7567c9b57c4c1a652bab56ada707315f8d20612c0736c3c1bb6c5080f8b2614b",
+        "url": "https://picsum.photos/1078/528?random=382",
+        "alt": "Featured image for: Home Color Scheme Tutorials for Beginners",
+        "width": 1078,
+        "height": 528
+      }
+    },
+    {
+      "id": 100,
+      "slug": "advanced-home-color-scheme-tutorials-techniques",
+      "title": "Advanced Home Color Scheme Tutorials Techniques",
+      "category": "tutorials-home-color-scheme",
+      "created_at": "2026-06-04T11:35:36.060240",
+      "image": {
+        "id": "983063d524c7398418052d50aa463cca44538dd82093a1ced1ad880d19b5a805",
+        "url": "https://picsum.photos/842/418?random=425",
+        "alt": "Featured image for: Advanced Home Color Scheme Tutorials Techniques",
+        "width": 842,
+        "height": 418
+      }
+    }
+  ],
+  "categories": [
+    "beginner-home-color-scheme",
+    "advanced-home-color-scheme",
+    "tips-home-color-scheme",
+    "history-home-color-scheme",
+    "trending-home-color-scheme",
+    "tutorials-home-color-scheme"
+  ]
+}
